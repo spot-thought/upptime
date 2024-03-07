@@ -12,7 +12,7 @@ status-website:
   logoUrl: https://www.spot-thought.com/images/logo.svg
   name: Spot Thought
   introTitle: "**Spot Thought** service status"
-  introMessage: View the current and historical status and incidents of our services
+  introMessage: View the current and historical status and incidents
   navbar:
     - title: Status
       href: /
