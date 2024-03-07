@@ -1,6 +1,5 @@
 owner: spot-thought
 repo: upptime
-
 sites:
   - name: Spot Thought Website
     url: https://www.spot-thought.com
@@ -9,14 +8,11 @@ sites:
 assignees:
   - benjamin-chang
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.spot-thought.com
   logoUrl: https://www.spot-thought.com/images/logo.svg
   name: Spot Thought
-  introTitle: "**Spot Thought** service health"
-  introMessage: View the current and historical status and incidents of all Spot Thought services
+  introTitle: "**Spot Thought** service status"
+  introMessage: View the current and historical status and incidents of our services
   navbar:
     - title: Status
       href: /
