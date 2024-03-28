@@ -11,6 +11,7 @@ status-website:
   name: Spot Thought
   cname: status.spot-thought.com
   logoUrl: https://www.spot-thought.com/images/logo.svg
+  favicon: https://www.spot-thought.com/favicon.svg
   faviconSvg: https://www.spot-thought.com/favicon.svg
   introTitle: "**Spot Thought** service status"
   introMessage: View the current and historical status and incidents
