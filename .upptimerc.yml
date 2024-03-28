@@ -8,7 +8,7 @@ sites:
 assignees:
   - benjamin-chang
 status-website:
-  name: Spot Thought Status
+  name: Spot Thought
   cname: status.spot-thought.com
   logoUrl: https://www.spot-thought.com/images/logo.svg
   favicon: https://www.spot-thought.com/favicon.svg
